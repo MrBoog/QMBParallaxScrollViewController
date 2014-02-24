@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>45BC9C4D-79B8-4236-9059-793C7318CA5B</string>
+	<string>39A6DA66-FC34-4FCA-A7BB-1CD1C1DA0A3F</string>
 	<key>IDESourceControlProjectName</key>
 	<string>QMBParallaxScrollView-Sample</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -14,11 +14,11 @@
 		<string>https://github.com/MrBoog/QMBParallaxScrollViewController.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Sample/QMBParallaxScrollView-Sample.xcworkspace</string>
+	<string>Sample/QMBParallaxScrollView-Sample.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>7E42DF09-093A-41AF-A4B5-FBD52F14FD2B</key>
-		<string>../..</string>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/MrBoog/QMBParallaxScrollViewController.git</string>
